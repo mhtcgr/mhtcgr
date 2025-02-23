@@ -6,12 +6,12 @@ Welcome to my GitHub profile!
 
 I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and AI technologies. I love to explore new technologies, contribute to the community, and build innovative solutions.
 
+- 🌱 I’m currently majoring in Intelligent Software and Engineering.
 - 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on open-source projects related to cloud computing and AI.
 - 🤔 I’m looking for help with large-scale distributed systems.
 - 💬 Ask me about software development, cloud computing, and AI.
-- 📫 How to reach me: [mhtcgr@example.com](mailto:mhtcgr@example.com)
+- 📫 How to reach me: [2742765745@qq.com](mailto:2742765745@qq.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring nature.
 
