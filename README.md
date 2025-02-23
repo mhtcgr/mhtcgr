@@ -31,10 +31,6 @@ Feel free to check out my repositories and contribute!
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mhtcgr)
-- [Twitter](https://twitter.com/mhtcgr)
-- [Personal Website](https://mhtcgr.dev)
-
 Looking forward to connecting with you!
 
 Happy coding! 🚀
