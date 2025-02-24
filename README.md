@@ -23,9 +23,10 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 Here are a few projects I've been working on:
 
+- [华为ToDoList](https://github.com/mhtcgr/ToDoList_For_Harmony): 一个用arkTs实现的拥有登陆注册系统、个人主页、待办事项以及联网搜索的多功能集成app，可以在华为设备上运行，我主要实现了前端部分。
 - [QT-Cplusplus-Final-Project](https://github.com/mhtcgr/QT-Cplusplus-Final-Project): 异形工厂是一款使用C++和Qt框架开发的工厂管理模拟游戏。
-- [Project 2](https://github.com/mhtcgr/ISE_homework): 手搓了一个编译器，可以实现词法分析、语法分析、语义分析和中间代码生成、最终代码生成，对C--（一种简化后的c语言）进行编译，并在 SPIM Simulator上运行。
-- [Project 3](https://github.com/mhtcgr/project3): vivo蓝河创新大赛参赛作品同时也是需求商业模式创新的大作业，前端魔法师项目实现了一个能将图片设计转化为web三件套代码，并进一步转化为ux代码的功能。
+- [手搓编译器](https://github.com/mhtcgr/ISE_homework): 手搓了一个编译器，可以实现词法分析、语法分析、语义分析和中间代码生成、最终代码生成，对C--（一种简化后的c语言）进行编译，并在 SPIM Simulator上运行。
+- [前端魔法师](https://github.com/mhtcgr/project3): vivo蓝河创新大赛参赛作品同时也是需求商业模式创新的大作业，前端魔法师项目实现了一个能将图片设计转化为web三件套代码，并进一步转化为ux代码的功能。
 
 Feel free to check out my repositories and contribute!
 
